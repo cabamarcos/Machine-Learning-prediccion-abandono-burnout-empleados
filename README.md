@@ -27,7 +27,6 @@ commits semanales de lo realizado en la práctica cada semana. Haciendo al menos
 un commit cada semana se obtienen 0.25 puntos. Se recomienda que el nombre del
 repositorio sea vuestro número de grupo de prácticas seguido con el literal
 “Practica2”. Por ejemplo, si sois el grupo 13 de prácticas, el repositorio se llamará
-
 “Grupo13-Practica2”. Enviar el enlace del repositorio al profesor de prácticas por e-
 mail.
 
@@ -37,9 +36,6 @@ innecesarias; que proporción de missing values por atributo; tipo de problema:
 (clasificación o regresión); ¿es desbalanceado?
 3. En esta práctica la evaluación será más sencilla que en la primera. Simplemente
 dividiremos los datos en un conjunto de train para entrenar y ajustar hiper-
-
-Aprendizaje Automático
-Práctica 2: Predicción de burnout
 parámetros, y un conjunto de test en el que evaluaremos las distintas posibilidades
 que se probarán en la práctica. Hay que recordar que En problemas de clasificación
 desbalanceados hay que usar particiones estratificadas y métricas adecuadas
