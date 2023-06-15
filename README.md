@@ -5,7 +5,8 @@ El objetivo de este segundo trabajo es la construcción de modelos con diversos 
 de desgaste de los empleados y le gustaría crear un modelo que prediga si es probable que los empleados
 abandonen la empresa, usando un conjunto de datos recopilados por el departamento de
 recursos humanos.
-CONSIDERACIONES GENERALES
+
+## CONSIDERACIONES GENERALES
 1. Para realizar la práctica, los estudiantes emplearán un repositorio de código en GitHub.
 Para ello, cada grupo debe crear un repositorio de código privado y agregar como
 «colaborador» al profesor de prácticas (que indicará a los estudiantes su nombre de
@@ -19,7 +20,8 @@ números aleatorios en los lugares adecuados. Se usará como semilla el NIA de u
 los miembros del grupo o bien el número del grupo de prácticas.
 3. Para cada grupo, se proporciona un conjunto de datos en formato pickle:
 attrition_available_xx.pkl (xx representa el número de grupo).
-DESARROLLO DE LA PRÁCTICA
+
+## DESARROLLO DE LA PRÁCTICA
 1. (0.25 puntos) Preparar un repositorio privado en GitHub para poder hacer los
 commits semanales de lo realizado en la práctica cada semana. Haciendo al menos
 un commit cada semana se obtienen 0.25 puntos. Se recomienda que el nombre del
