@@ -55,10 +55,7 @@ mutual_info_classif o chi2), comprobad si se pueden mejorar los resultados del
 apartado anterior y extraer conclusiones sobre qué atributos son más importantes,
 al menos de acuerdo a estos métodos.
 
-QUÉ ENTREGAR
-● Código en un notebook. Es necesario que a lo largo de la práctica se vayan extrayendo
-conclusiones, y al final de la práctica, hay que hacer un resumen de todos los resultados
-obtenidos, usando tablas y/o gráficos.
-● El archivo conteniendo el mejor modelo obtenido (llamado «modelo_final.pkl»).
-● Se recuerda que además de la entrega final, cada semana hay que hacer al menos un
-commit en el GitHub privado de cada grupo (0.25 puntos).
+## Significado de los atributos
+![image](https://github.com/cabamarcos/Machine-Learning-prediccion-abandono-burnout-empleados/assets/98906745/42ee541e-e154-4fd1-a7b7-773739d55f7a)
+![image](https://github.com/cabamarcos/Machine-Learning-prediccion-abandono-burnout-empleados/assets/98906745/6a96c94f-60e9-433e-bd10-c5ade4ee61b3)
+
