@@ -1,4 +1,15 @@
 # PREDICCIÓN DEL ABANDONO (BURNOUT) DE EMPLEADOS
+
+<!-- academic-catalog:start -->
+**UC3M · 3.º curso · Aprendizaje automático**
+
+Clasificación de abandono laboral con preprocesamiento, regresión logística, boosting y evaluación de datos desbalanceados.
+
+**Tecnologías:** Python, scikit-learn, XGBoost.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## INTRODUCCIÓN
 
 El objetivo de este segundo trabajo es la construcción de modelos con diversos preprocesos. El tema es el desgaste de empleados: una empresa está preocupada por el nivel 
